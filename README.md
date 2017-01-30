@@ -12,3 +12,4 @@ Shitty scripts for Hacker Experience
 - Crack Queue
 - Repair Hardware
 - Log Camper
+- Auto Cracker (r00t)
