@@ -1,6 +1,6 @@
 # CRACK QUEUER #
 # GreeTz FrOm SeCrEt SoCiEtY #
-# Developed by r00t and notDLS #
+# Developed by r00tz and notDLS #
 import requests
 import sys
 from threading import Thread
