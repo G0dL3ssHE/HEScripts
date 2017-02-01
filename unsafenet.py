@@ -65,7 +65,7 @@ def scan(ip_list):
 				print ("VPC FOUND @ {}".format(ip))
 				vpc.append(ip)
 			elif "Clan Server" in result:
-				print ("CLAN SERVER FOUND @ ".foramt(ip))
+				print ("CLAN SERVER FOUND @ ".format(ip))
 				clans.append(ip)
 		else:
 			print ("Error: Not logged in")
